@@ -1,0 +1,260 @@
+xx,ISIN,Scheme Name,Tag,Rating,ISIN
+0,INF579M01BB5,360 ONE Gold ETF,"['Good', '90percent gold']",Good,INF579M01BB5
+1,INF579M01BC3,360 ONE Silver ETF,"['notag', '90percent Silver']",Silver,#N/A
+2,INF846K010Q0,AXIS BSE Sensex ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+3,INF846K01W80,AXIS Gold ETF,"['Good', '90percent gold']",Good,INF846K01W80
+4,INF846K01W98,AXIS Nifty 50 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+5,INF846K01Z04,AXIS Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF,OtherTag,other,#N/A
+6,INF846K01X63,AXIS Nifty Bank ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+7,INF846K01Z12,AXIS Nifty Healthcare ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+8,INF846K01Y96,AXIS Nifty IT ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+9,INF846K016C7,AXIS Nifty India Consumption ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+10,INF846KA1119,AXIS Nifty500 Value 50 ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+11,INF846K011K1,AXIS Silver ETF,"['notag', '90percent Silver']",Silver,INF846K011K1
+12,INF209KB10E8,Aditya Birla SL BSE Sensex ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+13,INF209KC1142,Aditya Birla SL CRISIL 10 Year Gilt ETF,"['Good', '90percent gsec']",Good,#N/A
+14,INF209KC1134,Aditya Birla SL CRISIL Broad Based Gilt ETF,"['Good', '90percent gsec']",Good,#N/A
+15,INF209KB18T9,Aditya Birla SL CRISIL Liquid Overnight ETF,"['Good', '90percent rev_repo']",Good,#N/A
+16,INF209KB18D3,Aditya Birla SL Gold ETF,"['Good', '90percent gold']",Good,#N/A
+17,INF209KB14K7,Aditya Birla SL Nifty 200 Momentum 30 ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+18,INF209KB15K4,Aditya Birla SL Nifty 200 Quality 30 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+19,INF209KB19D1,Aditya Birla SL Nifty 50 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+20,INF209KB17D5,Aditya Birla SL Nifty Bank ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+21,INF209KB10C2,Aditya Birla SL Nifty Healthcare ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+22,INF209KB11D8,Aditya Birla SL Nifty IT ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+23,INF209KB16D7,Aditya Birla SL Nifty Next 50 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+24,INF209KB19Z4,Aditya Birla SL Nifty PSE ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+25,INF209KB19F6,Aditya Birla SL Silver ETF,"['notag', '90percent Silver']",Silver,#N/A
+26,INF1J2R01056,Angel One Nifty 1D Rate Liquid ETF - Growth,"['Good', '90percent rev_repo']",Good,#N/A
+27,INF1J2R01064,Angel One Nifty 50 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+28,INF1J2R01015,Angel One Nifty Total Market ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+29,INF754K01KO2,BHARAT Bond ETF - April 2030,OtherTag,other,#N/A
+30,INF754K01LE1,BHARAT Bond ETF - April 2031,OtherTag,other,#N/A
+31,INF754K01OB1,BHARAT Bond ETF - April 2032,OtherTag,other,#N/A
+32,INF754K01QX0,BHARAT Bond ETF - April 2033,OtherTag,other,#N/A
+33,INF0QA701854,Bajaj Finserv Nifty 1D Rate Liquid ETF - Growth,"['Good', '90percent rev_repo']",Good,#N/A
+34,INF0QA701722,Bajaj Finserv Nifty 50 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+35,INF0QA701714,Bajaj Finserv Nifty Bank ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+36,INF194KA1U07,Bandhan Nifty 50 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+37,INF251K01SU9,Baroda BNP Paribas Gold ETF,"['Good', '90percent gold']",Good,#N/A
+38,INF251K01TL6,Baroda BNP Paribas NIFTY Bank ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+39,INF109KB15Y7,Bharat 22 ETF,"['Good', '70percent bluechip in equity']",Good,INF109KB15Y7
+40,INF457M01133,CPSE ETF,"['Good', '70percent bluechip in equity']",Good,INF457M01133
+41,INF740KA1UM0,DSP BSE Liquid Rate ETF,"['Good', '90percent rev_repo']",Good,#N/A
+42,INF740KA1VE5,DSP BSE SENSEX Next 30 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+43,INF740KA1SZ6,DSP BSE Sensex ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+44,INF740KA1SW3,DSP Gold ETF,"['Good', '90percent gold']",Good,INF740KA1SW3
+45,INF740KA1EU7,DSP NIFTY 1D Rate Liquid ETF,"['Good', '90percent rev_repo']",Good,INF740KA1EU7
+46,INF740KA1CL0,DSP Nifty 50 ETF,"['Good', '70percent bluechip in equity']",Good,INF740KA1CL0
+47,INF740KA1QK2,DSP Nifty 50 Equal Weight ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+48,INF740KA1RX3,DSP Nifty Bank ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+49,INF740KA1UF4,DSP Nifty Healthcare ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+50,INF740KA1SX1,DSP Nifty IT ETF,"['Good', '70percent bluechip in equity']",Good,INF740KA1SX1
+51,INF740KA1QL0,DSP Nifty Midcap 150 Quality 50 ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+52,INF740KA1SY9,DSP Nifty PSU Bank ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+53,INF740KA1TA7,DSP Nifty Private Bank ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+54,INF740KA1UR9,DSP Nifty Top 10 Equal Weight ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+55,INF740KA1RE3,DSP Silver ETF,"['notag', '90percent Silver']",Silver,INF740KA1RE3
+56,INF754K01TX4,Edelweiss BSE Capital Markets & Insurance ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+57,INF754K01SE6,Edelweiss Gold ETF,"['Good', '90percent gold']",Good,#N/A
+58,INF754K01TE4,Edelweiss Nifty Bank ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+59,INF754K01TF1,Edelweiss Nifty500 Multicap Momentum Quality 50 ETF,"['Good', '75percent bluechip and good in equity']",Good,INF754K01TF1
+60,INF754K01SF3,Edelweiss Silver ETF,"['notag', '90percent Silver']",Silver,#N/A
+61,INF666M01IW1,Groww Gold ETF,"['Good', '90percent gold']",Good,INF666M01IW1
+62,INF666M01IP5,Groww Nifty 1D Rate Liquid ETF,"['Good', '90percent rev_repo']",Good,#N/A
+63,INF666M01JV1,Groww Nifty 200 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+64,INF666M01LB9,Groww Nifty 500 Low Volatility 50 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+65,INF666M01KJ4,Groww Nifty 500 Momentum 50 ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+66,INF666M01IH2,Groww Nifty EV & New Age Automotive ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+67,INF666M01IO8,Groww Nifty India Defence ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+68,INF666M01JJ6,Groww Nifty India Railways PSU ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+69,INF666M01LA1,Groww Silver ETF,"['notag', '90percent Silver']",Silver,INF666M01LA1
+70,INF179KC1EZ4,HDFC BSE 500 ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+71,INF179KC1HX2,HDFC BSE SENSEX ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+72,INF179KC1981,HDFC Gold ETF,"['Good', '90percent gold']",Good,INF179KC1981
+73,INF179KC1HR4,HDFC NIFTY 100 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+74,INF179KC1JG3,HDFC NIFTY 1D Rate Liquid ETF - Growth,"['Good', '90percent rev_repo']",Good,#N/A
+75,INF179KC1HY0,HDFC NIFTY Bank ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+76,INF179KC1DJ0,HDFC NIFTY Growth Sectors 15 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+77,INF179KC1IA8,HDFC NIFTY IT ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+78,INF179KC1HT0,HDFC NIFTY Midcap 150 ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+79,INF179KC1HS2,HDFC NIFTY NEXT 50 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+80,INF179KC1HW4,HDFC NIFTY PSU BANK ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+81,INF179KC1HZ7,HDFC NIFTY Private Bank ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+82,INF179KC1FB2,HDFC NIFTY Smallcap 250 ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+83,INF179KC1HU8,HDFC NIFTY100 Low Volatility 30 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+84,INF179KC1DL6,HDFC NIFTY100 Quality 30 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+85,INF179KC1HV6,HDFC NIFTY200 Momentum 30 ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+86,INF179KC1DK8,HDFC NIFTY50 Value 20 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+87,INF179KC1965,HDFC Nifty 50 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+88,INF179KC1DI2,HDFC Silver ETF,"['notag', '90percent Silver']",Silver,#N/A
+89,INF109KC1V59,ICICI Pru BSE 500 ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+90,INF109K1A021,ICICI Pru BSE Liquid Rate ETF - Growth,"['Good', '90percent rev_repo']",Good,#N/A
+91,INF109KC1KT9,ICICI Pru BSE Liquid Rate ETF - IDCW,"['Good', '90percent rev_repo']",Good,#N/A
+92,INF109KC10W0,ICICI Pru BSE Midcap Select ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+93,INF346A01034,ICICI Pru BSE Sensex ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+94,INF109KC1NT3,ICICI Pru Gold ETF,"['Good', '90percent gold']",Good,#N/A
+95,INF109KC18O0,ICICI Pru Nifty 10 yr Benchmark G-Sec ETF,"['Good', '90percent gsec']",Good,#N/A
+96,INF109KC16V9,ICICI Pru Nifty 100 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+97,INF109KC19U5,ICICI Pru Nifty 100 Low Volatility 30 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+98,INF109KC17C7,ICICI Pru Nifty 200 Momentum 30 ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+99,INF109KC18V5,ICICI Pru Nifty 200 Quality 30 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+100,INF109KC14A8,ICICI Pru Nifty 5 yr Benchmark G-Sec ETF,"['Good', '90percent gsec']",Good,#N/A
+101,INF109K012R6,ICICI Pru Nifty 50 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+102,INF109KC11V0,ICICI Pru Nifty 50 Value 20 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+103,INF109KC17V7,ICICI Pru Nifty Alpha Low - Volatility 30 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+104,INF109KC10V2,ICICI Pru Nifty Auto ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+105,INF109KC15I8,ICICI Pru Nifty Bank ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+106,INF109KC19O8,ICICI Pru Nifty Commodities ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+107,INF109K1A153,ICICI Pru Nifty EV & New Age Automotive ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+108,INF109KC19V3,ICICI Pru Nifty FMCG ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+109,INF109KC17L8,ICICI Pru Nifty Financial Services Ex-Bank ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+110,INF109KC1Q72,ICICI Pru Nifty Healthcare ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+111,INF109KC16I6,ICICI Pru Nifty IT ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+112,INF109KC1V42,ICICI Pru Nifty India Consumption ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+113,INF109KC16E5,ICICI Pru Nifty Infrastructure ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+114,INF109KC19W1,ICICI Pru Nifty Metal ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+115,INF109KC11W8,ICICI Pru Nifty Midcap 150 ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+116,INF109KC1NS5,ICICI Pru Nifty Next 50 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+117,INF109KC18W3,ICICI Pru Nifty Oil & Gas ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+118,INF109KC10S8,ICICI Pru Nifty PSU Bank ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+119,INF109KC18U7,ICICI Pru Nifty Private Bank ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+120,INF109K1A344,ICICI Pru Nifty Top 15 Equal Weight ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+121,INF109KC16X5,ICICI Pru Nifty200 Value 30 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+122,INF109KC1Y56,ICICI Pru Silver ETF,"['notag', '90percent Silver']",Silver,#N/A
+123,INF205K01361,Invesco India Gold ETF,"['Good', '90percent gold']",Good,#N/A
+124,INF205K01DA9,Invesco India Nifty 50 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+125,INF174KA1HJ8,Kotak GOLD ETF,"['Good', '90percent gold']",Good,INF174KA1HJ8
+126,INF174KA1VD2,Kotak MSCI India ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+127,INF174KA1UW4,Kotak Nifty 100 Equal Weight ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+128,INF174KA1IY5,Kotak Nifty 100 Low Volatility 30 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+129,INF174KA1LV5,Kotak Nifty 1D Rate Liquid ETF,"['Good', '90percent rev_repo']",Good,#N/A
+130,INF174K014P6,Kotak Nifty 50 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+131,INF174K01Z71,Kotak Nifty 50 Value 20 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+132,INF174KA1IA5,Kotak Nifty Alpha 50 ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+133,INF174K01F59,Kotak Nifty Bank ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+134,INF174KA1GC5,Kotak Nifty IT ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+135,INF174KA1JE5,Kotak Nifty India Consumption ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+136,INF174KA1JF2,Kotak Nifty MNC ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+137,INF174KA1VW2,Kotak Nifty Midcap 150 ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+138,INF174KA1IB3,Kotak Nifty Midcap 50 ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+139,INF373I01023,Kotak Nifty PSU Bank ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+140,INF174KA1KU9,Kotak Silver ETF,"['notag', '90percent Silver']",Silver,INF174KA1KU9
+141,INF767K01OT5,LIC MF BSE Sensex ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+142,INF397L01554,LIC MF Gold ETF,"['Good', '90percent gold']",Good,INF397L01554
+143,INF767K01PC8,LIC MF Nifty 100 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+144,INF767K01OS7,LIC MF Nifty 50 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+145,INF767K01MV5,LIC MF Nifty 8-13 yr G-Sec ETF,"['Good', '90percent gsec']",Good,#N/A
+146,INF767K01RN1,LIC MF Nifty Midcap 100 ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+147,INF769K01OA1,Mirae Asset BSE 200 Equal Weight ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+148,INF769K01ON4,Mirae Asset BSE Select IPO ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+149,INF769K01KT9,Mirae Asset BSE Sensex ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+150,INF769K01JP9,Mirae Asset Gold ETF,"['Good', '90percent gold']",Good,#N/A
+151,INF769K01HS7,Mirae Asset Hang Seng TECH ETF,"['notag', '90percent Foreign Equity']",Foreign Equity,#N/A
+152,INF769K01HF4,Mirae Asset NYSE FANG+ ETF,"['notag', '90percent Foreign Equity']",Foreign Equity,#N/A
+153,INF769K01GS9,Mirae Asset Nifty 100 ESG Sector Leaders ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+154,INF769K01JU9,Mirae Asset Nifty 100 Low Volatility 30 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+155,INF769K01MY5,Mirae Asset Nifty 1D Rate Liquid ETF - Growth,"['Good', '90percent rev_repo']",Good,#N/A
+156,INF769K01KS1,Mirae Asset Nifty 1D Rate Liquid ETF-IDCW,"['Good', '90percent rev_repo']",Good,#N/A
+157,INF769K01KU7,Mirae Asset Nifty 200 Alpha 30 ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+158,INF769K01EG9,Mirae Asset Nifty 50 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+159,INF769K01KF8,Mirae Asset Nifty 8-13 yr G-Sec ETF,"['Good', '90percent gsec']",Good,#N/A
+160,INF769K01KR3,Mirae Asset Nifty Bank ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+161,INF769K01LQ3,Mirae Asset Nifty EV and New Age Automotive ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+162,INF769K01HI8,Mirae Asset Nifty Financial Services ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+163,INF769K01KV5,Mirae Asset Nifty IT ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+164,INF769K01IB1,Mirae Asset Nifty India Manufacturing ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+165,INF769K01NS5,Mirae Asset Nifty India New Age Consumption ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+166,INF769K01LY7,Mirae Asset Nifty Metal ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+167,INF769K01LJ8,Mirae Asset Nifty MidSmallcap400 Momentum Quality 100 ETF,"['Good', '75percent bluechip and good in equity']",Good,INF769K01LJ8
+168,INF769K01IC9,Mirae Asset Nifty Midcap 150 ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+169,INF769K01FN2,Mirae Asset Nifty Next 50 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+170,INF769K01LZ4,Mirae Asset Nifty PSU Bank ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+171,INF769K01LC3,Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF,"['Good', '75percent bluechip and good in equity']",Good,INF769K01LC3
+172,INF769K01OO2,Mirae Asset Nifty50 Equal Weight ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+173,INF769K01LX9,Mirae Asset Nifty500 Multicap 50:25:25 ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+174,INF769K01HP3,Mirae Asset S&P 500 Top 50 ETF,"['notag', '90percent Foreign Equity']",Foreign Equity,#N/A
+175,INF769K01KG6,Mirae Asset Silver ETF,"['notag', '90percent Silver']",Silver,#N/A
+176,INF247L01BE5,Motilal Oswal BSE Enhanced Value ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+177,INF247L01BB1,Motilal Oswal BSE Healthcare ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+178,INF247L01FL1,Motilal Oswal BSE India Infrastructure ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+179,INF247L01BL0,Motilal Oswal BSE Low Volatility ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+180,INF247L01BH8,Motilal Oswal BSE Quality ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+181,INF247L01AP3,Motilal Oswal NASDAQ-100 ETF,"['notag', '90percent Foreign Equity']",Foreign Equity,#N/A
+182,INF247L01AU3,Motilal Oswal Nasdaq Q 50 ETF,"['notag', '90percent Foreign Equity']",Foreign Equity,#N/A
+183,INF247L01BK2,Motilal Oswal Nifty 200 Momentum 30 ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+184,INF247L01AK4,Motilal Oswal Nifty 5 Year Benchmark G-Sec ETF,"['Good', '90percent gsec']",Good,#N/A
+185,INF247L01536,Motilal Oswal Nifty 50 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+186,INF247L01FC0,Motilal Oswal Nifty 50 Equal Weight ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+187,INF247L01BU1,Motilal Oswal Nifty 500 ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+188,INF247L01DK8,Motilal Oswal Nifty 500 Momentum 50 ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+189,INF247L01EV3,Motilal Oswal Nifty Capital Market ETF,"['Average', 'else average in equity']",Average,#N/A
+190,INF247L01DJ0,Motilal Oswal Nifty India Defence ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+191,INF247L01FK3,Motilal Oswal Nifty India Manufacturing ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+192,INF247L01FP2,Motilal Oswal Nifty India Tourism ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+193,INF247L01023,Motilal Oswal Nifty Midcap 100 ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+194,INF247L01FQ0,Motilal Oswal Nifty Midcap150 Momentum 50 ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+195,INF247L01FD8,Motilal Oswal Nifty Next 50 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+196,INF247L01FO5,Motilal Oswal Nifty PSE ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+197,INF247L01CI4,Motilal Oswal Nifty Realty ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+198,INF247L01CH6,Motilal Oswal Nifty Smallcap 250 ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+199,INF204KC1EZ3,Nippon India BSE Sensex Next 30 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+200,INF204KB17I5,Nippon India ETF Gold BeES,"['Good', '90percent gold']",Good,#N/A
+201,INF204KB19I1,Nippon India ETF Hang Seng BeES,"['notag', '90percent Foreign Equity']",Foreign Equity,#N/A
+202,INF204K014N5,Nippon India ETF Nifty 100,"['Good', '70percent bluechip in equity']",Good,#N/A
+203,INF732E01037,Nippon India ETF Nifty 1D Rate Liquid BeES,"['Good', '90percent rev_repo']",Good,#N/A
+204,INF204KC1030,Nippon India ETF Nifty 5 yr Benchmark G-Sec,"['Good', '90percent gsec']",Good,#N/A
+205,INF204KB14I2,Nippon India ETF Nifty 50 BeES,"['Good', '70percent bluechip in equity']",Good,#N/A
+206,INF732E01128,Nippon India ETF Nifty 50 Shariah BeES,"['Good', '70percent bluechip in equity']",Good,#N/A
+207,INF204KB18I3,Nippon India ETF Nifty 50 Value 20,"['Good', '70percent bluechip in equity']",Good,#N/A
+208,INF204KB1882,Nippon India ETF Nifty 8-13 yr G-Sec Long Term Gilt,"['Good', '90percent gsec']",Good,INF204KB1882
+209,INF204KB15I9,Nippon India ETF Nifty Bank BeES,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+210,INF204KA1MS3,Nippon India ETF Nifty Dividend Opportunities 50,"['Good', '70percent bluechip in equity']",Good,#N/A
+211,INF204KB15V2,Nippon India ETF Nifty IT,"['Good', '70percent bluechip in equity']",Good,#N/A
+212,INF204KA1LD7,Nippon India ETF Nifty India Consumption,"['Good', '70percent bluechip in equity']",Good,#N/A
+213,INF732E01268,Nippon India ETF Nifty Infrastructure BeES,"['Good', '70percent bluechip in equity']",Good,#N/A
+214,INF204KB1V68,Nippon India ETF Nifty Midcap 150,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+215,INF732E01045,Nippon India ETF Nifty Next 50 Junior BeES,"['Good', '70percent bluechip in equity']",Good,#N/A
+216,INF204KB16I7,Nippon India ETF Nifty PSU Bank BeES,"['Good', '70percent bluechip in equity']",Good,#N/A
+217,INF204KC1022,Nippon India ETF Nifty SDL Apr 2026 Top 20 Equal Weight,"['Good', '90percent gsec']",Good,INF204KC1022
+218,INF204KC1337,Nippon India Nifty Auto ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+219,INF204KC1089,Nippon India Nifty Pharma ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+220,INF204KC1402,Nippon India Silver ETF,"['notag', '90percent Silver']",Silver,#N/A
+221,INF082J01408,Quantum Gold Fund (G),"['Good', '90percent gold']",Good,#N/A
+222,INF082J01028,Quantum Nifty 50 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+223,INF200KB1712,SBI BSE PSU Bank ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+224,INF200KA16D8,SBI Gold ETF,"['Good', '90percent gold']",Good,INF200KA16D8
+225,INF200KA1JT1,SBI Nifty 10 yr Benchmark G-Sec ETF,"['Good', '90percent gsec']",Good,#N/A
+226,INF200KA13Z8,SBI Nifty 1D Rate Liquid ETF - IDCW,"['Good', '90percent rev_repo']",Good,#N/A
+227,INF200KA1WX6,SBI Nifty 200 Quality 30 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+228,INF200KA1FS1,SBI Nifty 50 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+229,INF200KA1580,SBI Nifty Bank ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+230,INF200KA1X17,SBI Nifty Consumption ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+231,INF200KA1S14,SBI Nifty IT ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+232,INF200KA1598,SBI Nifty Next 50 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+233,INF200KA1S22,SBI Nifty Private Bank ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+234,INF200KB1282,SBI Nifty50 Equal Weight ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+235,INF200KB1217,SBI SILVER ETF,"['notag', '90percent Silver']",Silver,INF200KB1217
+236,INF680P01422,Shriram Nifty 1D Rate Liquid ETF,"['Good', '90percent rev_repo']",Good,#N/A
+237,INF277KA1976,Tata Gold ETF,"['Good', '90percent gold']",Good,INF277KA1976
+238,INF277K015R5,Tata Nifty 50 Exchange Traded Fund,"['Good', '70percent bluechip in equity']",Good,#N/A
+239,INF277KA1364,Tata Nifty India Digital Exchange Traded Fund,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+240,INF277K010X4,Tata Nifty Private Bank ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+241,INF277KA1984,Tata Silver ETF,"['notag', '90percent Silver']",Silver,INF277KA1984
+242,INF789FB1X58,UTI-BSE Sensex ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+243,INF789F1AUU3,UTI-BSE Sensex Next 50 ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+244,INF789F1AUX7,UTI-Gold ETF,"['Good', '90percent gold']",Good,#N/A
+245,INF789F1AZF3,UTI-Nifty 10 yr Benchmark G-Sec ETF,"['Good', '90percent gsec']",Good,#N/A
+246,INF789F1AZE6,UTI-Nifty 5 yr Benchmark G-Sec ETF,"['Good', '90percent gsec']",Good,#N/A
+247,INF789F1AZC0,UTI-Nifty 50 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+248,INF789F1AUV1,UTI-Nifty Bank Exchange Traded Fund,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+249,INF789F1AZD8,UTI-Nifty IT ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+250,INF789F1AYX9,UTI-Nifty Midcap 150 ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+251,INF789F1AUW9,UTI-Nifty Next 50 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+252,INF789F1AYK6,UTI-Silver Exchange Traded Fund,"['notag', '90percent Silver']",Silver,#N/A
+253,INF582M01KS4,Union Gold ETF,"['Good', '90percent gold']",Good,INF582M01KS4
+254,INF0R8F01042,Zerodha Gold ETF,"['Good', '90percent gold']",Good,INF0R8F01042
+255,INF0R8F01067,Zerodha Nifty 100 ETF,"['Good', '70percent bluechip in equity']",Good,#N/A
+256,INF0R8F01034,Zerodha Nifty 1D Rate Liquid ETF,"['Good', '90percent rev_repo']",Good,#N/A
+257,INF0R8F01059,Zerodha Nifty Midcap 150 ETF,"['Good', '75percent bluechip and good in equity']",Good,#N/A
+258,INF0R8F01091,Zerodha Silver ETF,"['notag', '90percent Silver']",Silver,#N/A
