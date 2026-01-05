@@ -1,0 +1,5 @@
+yfinance
+pandas
+mplfinance
+datetime
+pandas_ta
