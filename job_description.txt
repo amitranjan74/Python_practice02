@@ -1,0 +1,38 @@
+Job description
+
+The mail is regarding an excellent job opportunity with Career Opportunity - JP Morgan Chase - Business Analyst Manager - Derivative - Mumbai
+
+Job Description
+
+You will be part of the strategic project migration team and will be working on the migration project of the Trade Management Platform (Financial Application). You will have a great exposure to the overall Investment banking operation [Front Office / Middle Office / Back Office]
+
+Job summary
+
+As a Business Analysis Associate within our financial team, you will be expected to learn various financial products and investment banking operations and apply them to your projects. You will be responsible for planning and managing project implementation phases, identifying process gaps, and promoting automation efforts. You will also be required to manage project deliverables in line with the project plan and provide regular status reports to project stakeholders. This role provides an opportunity to enhance your project management and business analysis skills in a dynamic and challenging environment.
+
+
+Job Responsibilities:
+
+Learn the various financial product and investment banking operation and apply the same in the project.
+Plan and manage the project implementation phases like pilot testing, UAT (user acceptance test), TIR (test incident report) logging and resolution, training, hand-holding support and go-live.
+Review requirements, specifications, user documentation, help files, and other project documentation job aids/procedures to assure quality of the test suites to be developed.
+Identify process gaps and lean down processes- also automate campaigns being worked upon/drive automation efforts. Gap Analysis and Requirement gathering for the new customization.
+Manage the project deliverable in line with the project plan.
+Create the UAT test Plan and test case. Functional testing & UAT support to business User.
+Provide regular status report to project Stakeholders.
+
+Required qualifications, capabilities and skills
+
+Bachelor’s degree with Minimum 6 years of experience as a Project manager/Lead or Senior Business Analyst.
+Working experience in Capital market domain.
+Possess strong client facing skills, delivery focused and proficient in managing multiple cross-functional teams/projects.
+Possess excellent analysis, problem solving, interpersonal communication, project and time management skills.
+Proficient with MS Word, Excel, PowerPoint, Visio.
+Awareness of project management tools, such as JIRA, Confluence and SharePoint.
+
+Preferred qualifications, capabilities and skills
+
+Certification in Business Analyst or Project management is a plus.
+Experience in Derivatives products, finance, banking, securities domain, is a plus.
+Experience in implementation of Regulatory Reporting CFTC / SEC / ESMA / FCA / ASIC / HKMA / MAS.
+Worked on the Trade Confirmation Platform MarkitWire and TradeServ. Be extremely detail-oriented regarding verbal and written documentation and communication.

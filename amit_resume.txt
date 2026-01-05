@@ -1,0 +1,70 @@
+Name: Amit Ranjan
+Contact info: mtranjan2020@gmail.com | 8097221766
+Linkedin profile: linkedin.com/in/amitranjan
+Github profile: https://github.com/ranjan0601
+
+Career objective:
+Experienced finance professional with an MBA in Finance and over 10 years of experience 
+in analytics and data science. Skilled in data analysis, and financial strategy. I can leverage my 
+financial acumen, analytical abilities, technical expertise and interpersonal skills to drive process 
+improvement, optimize financial performance and contribute to the growth of the organization.
+
+Professional Experience:
+1. Company: Angel One
+Job Role: Research Associate 
+From: Feb,2021 to present date
+Job responsibility:
+•	Conducted research and analysis on financial markets and instruments.
+•	Handled advisory responsibilities, providing strategic guidance and insights to stakeholders.
+•	Published IPO report, portfolio management and performance update, handling regulatory updates, vendor management and hosting financial webinar.
+•	Utilized Bloomberg and Capitaline software for data extraction and analysis.
+Task and responsibility includes, IPO Word Doc & Financials, Managing advisory product including paid and free advisory products, 
+tracking portfolio performance and alpha based on benchmark index, continous update on stock trend and latest numbers,
+vendor management, data extraction from bloomberg, hosting fundamental webinar on current topic for educating clients
+and vendors on financial products and fundamental analysis, handling compliance query and maintaing record as per compliance requirement.
+generating monthly volume and turnover data on listed stocks, maintaing compliance in research reports, creating 
+liquidity map on listed stocks through Mutual fund data, creating ranking of equity stocks based on its fundamental and quarterly numbers,
+creating stock fundamental universe to review monthly, addressing various query raised by vendors and internal stakeholders.
+
+
+2. Company: SBI General Insurance
+Job Role: BIU Analyst 
+From: 2019 to 2021
+Job responsibility:
+•	Analyzed insurance data to identify trends and insights for business improvement.
+•	Implemented data-driven strategies to optimize operations and customer satisfaction.
+
+
+3. Company: ICICI Bank
+Job Role: Strategy and Analytics Team Member
+From: 2015 to 2019
+Job responsibility:
+•	Developed and executed strategies for debt management and recovery.
+•	Analyzed financial data to support strategic decision-making.
+
+Current Certification:
+•	NISM Research Analyst XV Series/NISM Series XV exam.
+Pursuing CFA Level 1
+•	Full stack data science Certification
+•	NPTEL certification on python for data analytics
+•	NPTEL certification on Algo trading with R
+•	Algo trading using Python.
+
+Projects:
+•	Excel automation task using python.
+•	Data Analysis and EDA projects using python.
+•	LLM project using Gemini API.
+•	Classification and Unsupervised learning projects.
+Technical Proficiency:
+•	Excel, Python, SQL, R language, PowerBI,
+•	Numpy, Pandas, matplotlib, seaborn, streamlit
+
+Financial Software and Tools used:
+•	Bloomberg
+•	Cline
+NAV
+
+Education:
+MBA in Finance – From Mumbai University – 2021
+Diploma in Banking and Finance – From Manipal University, Bangalore - 2014
+Graduation in Electronics – From Delhi University - 2010
