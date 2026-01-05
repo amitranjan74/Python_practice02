@@ -1,0 +1,123 @@
+//@version=6
+indicator("Z SMMA | QuantEdgeB", overlay = false)
+
+//Imports
+import TradingView/ta/9
+
+// Design Setup
+ColMode = input.string("Strategy", title = "Color Mode", group = "Visual | QuantEdgeB", options = ["Strategy", "Solar","Warm","Cool","Classic","Magic"])
+E_plots = input.bool(true,"Extra Plots", group = "Visual | QuantEdgeB")
+LABEL   = input.bool(false,"Long/Cash Signal Lable" , group = "Visual | QuantEdgeB")
+[color_up, color_dn, color_nu] = switch ColMode
+    "Strategy"=> [color.rgb(19, 201, 252), color.rgb(103, 2, 2),color.gray]
+    "Solar"   => [color.rgb(43, 56, 247), #ee6728,color.gray]
+    "Warm"    => [#ffbb00, #770737,color.gray]
+    "Cool"    => [#0aede9, color.rgb(12, 16, 218),color.gray]
+    "Classic" => [#04f7e7, color.maroon,color.gray]
+    "Magic"   => [color.rgb(114, 44, 246), color.rgb(214, 245, 42),color.gray]
+
+// Color Palette
+color col_up1     = color_up
+color col_up2     = color.new(color_up, 70)
+color col_up3     = color.new(color_up, 100)
+color col_dn1     = color_dn
+color col_dn2     = color.new(color_dn, 70)
+color col_nu2     = color.new(color_dn, 70)
+
+//###############################################################################################################################################################################################################################################//
+//Inputs
+Lu = input.float(0.1, 'Long Threshold', step = 0.1)
+Su = input.float(-0.1, 'Short Threshold', step = 0.1)
+
+len_smma   = input.int(12, 'SMMA length')
+src_smma   = input.source(close,"Source")
+len_z   = input.int(30,"Z-Score lookback period")
+
+//###############################################################################################################################################################################################################################################//
+//Calculation
+F_SMMA(src_s, len_s) =>
+    float SMMA = na
+    SMA = ta.sma(src_s, len_s)
+    if bar_index >= len_s - 1
+        alpha_val = 1 / len_s
+        SMMA := na(SMMA[1]) ? SMA : (src_s - SMMA[1]) * alpha_val + SMMA[1]
+        SMMA
+    else
+        SMMA := src_s
+        SMMA
+    SMMA
+
+SMMA       = F_SMMA(src_smma, len_smma)
+mean       = ta.ema(SMMA, len_z)
+SD         = ta.stdev(SMMA, len_z) 
+SMMA_Z     = (SMMA - mean) / SD 
+
+//###############################################################################################################################################################################################################################################//
+//Final Signal
+Long_C  = SMMA_Z > Lu
+Short_C = SMMA_Z < Su
+
+
+var QB = 0
+
+if Long_C and not Short_C
+    QB := 1
+    QB
+
+if Short_C
+    QB := -1
+    QB
+
+
+color = QB == 1 ? color_up : QB == -1 ? color_dn : color_nu
+
+plotcandle(open, high, low, close, 'BarColor', color = color, bordercolor = color, wickcolor = color, force_overlay = true)
+
+pB = plot(SMMA_Z,color = color)
+hline(0)
+pL = plot(Lu,color = color_up)
+pS = plot(Su,color = color_dn)
+
+OB1 = plot(2,display = display.none)
+OB2 = plot(4,color = color_dn)
+OS1 = plot(-2,display = display.none)
+OS2 = plot(-4,color = color_up)
+fill(OB1, OB2, 4, 2,  color.new(color_dn,20) , color.new(color_dn,90))
+fill(OS1, OS2, -2, -4,  color.new(color_up,90) , color.new(color_up,20))
+
+fill(pL, pB, SMMA_Z, Lu, QB > 0 ? color : na, na)
+fill(pS, pB, Su, SMMA_Z, QB < 0 ? color : na, na)
+//###############################################################################################################################################################################################################################################//
+// Extra Plots
+var PL = 0
+PL := QB > 0 ? 1 : QB < 0 ? -1 : 0 
+
+plot(E_plots ? ta.alma(close,8,0.7,4) : na,linewidth = 3, color = color,force_overlay = true)
+
+plotline1 = E_plots ? ta.ema(close,3)       : na
+plotline2 = E_plots ? ta.ema(plotline1,19*2) : na
+plotline3 = E_plots ? ta.ema(plotline1,19*3) : na
+plotline4 = E_plots ? ta.ema(plotline1,15)   : na
+
+band_width = math.abs(plotline2 - plotline4) / close
+mid_col    = color.from_gradient(band_width, 0, 0.05, na, chart.fg_color)
+
+p1 = plot(plotline2 ,  color = color(na), linewidth=1, style = plot.style_linebr,force_overlay = true)
+p2 = plot(plotline4,  color = PL==1   ? col_up2 : PL == -1 ? col_dn2 : color.rgb(120, 123, 134, 70), linewidth=1, style = plot.style_linebr,force_overlay = true)
+p3 = plot(plotline3,  color = color(na), linewidth=1, style = plot.style_linebr,force_overlay = true)
+
+fill(p1, p2, plotline2, plotline1, 
+         PL==1   ? col_up2 : PL == -1 ? col_dn2 : color.rgb(120, 123, 134, 70),
+         PL==1   ? col_up1 : PL == -1 ? col_dn1 : color.gray
+         )
+fill(p1, p3, plotline3, plotline4,  PL==1 ? col_up1 : PL == -1 ? col_dn2 : color.rgb(120, 123, 134, 70), na)
+
+// Plot Labels
+if QB == -1 and QB[1] == -1 and  QB[2] == 1 and LABEL// Only plot when the signal changes
+    label.new(x=bar_index, y= high * 1.08, text= "𝓢𝓱𝓸𝓻𝓽" , color=  color_dn, style=  label.style_label_down  ,textcolor=color.white, size=size.tiny)
+
+if QB == 1 and QB[1] == 1 and  QB[2] == -1 and LABEL// Only plot when the signal changes
+    label.new(x=bar_index, y= low * 0.9, text= "𝓛𝓸𝓷𝓰" , color=  color_up, style=  label.style_label_up  ,textcolor=color.white, size=size.tiny)
+
+alertcondition(ta.crossover(QB, 0), title="Z_SMMA Long", message="Z_SMMA Long {{exchange}}:{{ticker}}")
+alertcondition(ta.crossunder(QB, 0), title="Z-SMMA Short", message="Z_SMMA Short {{exchange}}:{{ticker}}")
